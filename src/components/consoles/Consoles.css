@@ -1,0 +1,16 @@
+.consoles{
+    text-align: center;
+    margin-top: 15rem;
+}
+.consoles ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+.consoles li{
+    padding: 1rem;
+}
+.consoles a{
+    text-decoration: none;
+    color: black;
+}

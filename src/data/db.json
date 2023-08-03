@@ -1,0 +1,73 @@
+{
+  "games": [
+    {
+      "id": "c1",
+      "items": [
+        {
+          "image": "/assets/vmgs.jpeg", 
+          "title": "Metal Gear Solid"
+        },
+        {
+          "image": "/assets/vmoh.jpeg",
+          "title": "Medal of Honor"
+        },
+
+        {
+          "image": "/assets/vre1.jpeg",
+          "title": "Resident Evil"
+        }
+      ]
+    },
+    {
+      "id": "c2",
+      "items": [
+        {
+          "image": "/assets/vmgs2.jpeg",
+          "title": "Sons of Liberty"
+        },
+        {
+          "image": "/assets/vre4.jpeg",
+          "title": "Resident Evil 4"
+        },
+        {
+          "image": "/assets/vgow.jpeg",
+          "title": "God of War"
+        }
+      ]
+    },
+    {
+      "id": "c3",
+      "items": [
+        {
+          "image": "/assets/vre6.jpeg",
+          "title": "Resident Evil 6"
+        },
+        {
+          "image": "/assets/vgow3.jpeg",
+          "title": "God of War 3"
+        },
+        {
+          "image": "/assets/vmgscollection.jpeg",
+          "title": "Metal Gear Collection"
+        }
+      ]
+    },
+    {
+      "id": "c4",
+      "items": [
+        {
+          "image": "/assets/vmgs5.jpeg",
+          "title": "Phantom Pain"
+        },
+        {
+          "image": "/assets/vre7.jpeg",
+          "title": "Resident Evil 7"
+        },
+        {
+          "image": "/assets/vgow.jpeg",
+          "title": "God of War"
+        }
+      ]
+    }
+  ]
+}
