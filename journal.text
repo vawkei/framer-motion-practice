@@ -1,0 +1,5 @@
+Done with it.
+The only issue i think i couldn't get around is working the page exit.
+<AnimatePresence mode="wait"  /> didnt work the way it out to work.
+Would be doing some looking into it later.
+August 6,2023.

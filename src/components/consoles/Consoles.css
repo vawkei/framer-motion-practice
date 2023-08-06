@@ -1,16 +1,21 @@
 .consoles{
     text-align: center;
-    margin-top: 15rem;
+    margin-top: 7rem;
 }
 .consoles ul{
-    margin: 0;
+    /* margin: 0; */
+    margin-top: 3rem;
     padding: 0;
     list-style: none;
 }
-.consoles li{
-    padding: 1rem;
+.consoles ul li{
+    padding: 1rem;       
 }
 .consoles a{
     text-decoration: none;
     color: black;
+}
+
+.button{
+    text-align: center;
 }
